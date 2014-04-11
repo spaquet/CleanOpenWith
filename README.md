@@ -13,3 +13,5 @@ The script is easy to use:
 Feel free to fork it and make any improvement you may find necessary.
 
 These AppelScript and app are working for version 10.9, 10.8 and 10.7
+
+Version 0.1 is available for download [here](https://github.com/spaquet/CleanOpenWith/releases/latest)
